@@ -1,0 +1,65 @@
+.isi {display: none;}
+
+
+
+
+body {background-color: #cfac76;
+text-align: center;
+font-family: 'Georgia', serif;}
+
+.judul {
+    color: #5e5527be;
+    font-size: 4em;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 5px;
+}
+
+.paragraf {
+    color: #302909;
+    font-size: 2.4em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    font-family:'Courier New', Courier, monospace
+}
+
+.penutup {
+    color: #320610;
+    font-size: 1.9em;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.foto-pertama {
+    width: 230px;
+    height: 230px;
+    border-radius: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foto-kedua {
+    width: 240px;
+    height: 240px;
+    border-radius: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foto-ketiga {
+    width: 240px;
+    height: 240px;
+    border-radius: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foto-keempat {
+    width: 340px;
+    height: 240px;
+    border-radius: 13%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}   
